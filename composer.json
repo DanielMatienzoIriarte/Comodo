@@ -27,4 +27,5 @@
             "Checkdomain\\Comodo\\Tests\\": "tests"
         }
     }
+    "minimum-stability": "dev"
 }
